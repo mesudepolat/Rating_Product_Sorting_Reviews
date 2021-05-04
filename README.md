@@ -9,9 +9,9 @@
 
 * reviewerID - User ID Ex.: A2SUAM1J3GNN3B
 * asin – Product ID. Ex.: 0000013714
-* reviewerName – Kullanıcı Adı
-* helpful – Faydalı yotum derecesi. Örn:. 2/3
-* reviewText – Kullanıcın yazdığı inceleme metni
+* reviewerName – User name
+* helpful – Useful comment rating. Ex.: 2/3
+* reviewText – User-written review text
 * overall – Ürün rating’i
 * summary - İnceleme özeti
 * unixReviewTime – İnceleme zamanı (unix time)
