@@ -12,7 +12,7 @@
 * reviewerName – User name
 * helpful – Useful comment rating. Ex.: 2/3
 * reviewText – User-written review text
-* overall – Ürün rating’i
-* summary - İnceleme özeti
+* overall – Product rating
+* summary - Review summary
 * unixReviewTime – İnceleme zamanı (unix time)
 * reviewTime – İnceleme zamanı (raw)
