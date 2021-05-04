@@ -14,5 +14,5 @@
 * reviewText – User-written review text
 * overall – Product rating
 * summary - Review summary
-* unixReviewTime – İnceleme zamanı (unix time)
-* reviewTime – İnceleme zamanı (raw)
+* unixReviewTime – Review Time (unix time)
+* reviewTime – Review Time (raw)
