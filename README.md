@@ -7,8 +7,8 @@
 
 ## Dataset information / Features
 
-* reviewerID - Kullanıcı ID’si. Örn: A2SUAM1J3GNN3B
-* asin – Ürün ID’si. Örn: 0000013714
+* reviewerID - User ID Ex.: A2SUAM1J3GNN3B
+* asin – Product ID. Ex.: 0000013714
 * reviewerName – Kullanıcı Adı
 * helpful – Faydalı yotum derecesi. Örn:. 2/3
 * reviewText – Kullanıcın yazdığı inceleme metni
